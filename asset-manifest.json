@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactApp/static/css/main.08e68ede.chunk.css",
+    "main.js": "/MyFirstReactApp/static/js/main.e584f788.chunk.js",
+    "main.js.map": "/MyFirstReactApp/static/js/main.e584f788.chunk.js.map",
+    "runtime~main.js": "/MyFirstReactApp/static/js/runtime~main.ad9edcd2.js",
+    "runtime~main.js.map": "/MyFirstReactApp/static/js/runtime~main.ad9edcd2.js.map",
+    "static/js/2.e2268178.chunk.js": "/MyFirstReactApp/static/js/2.e2268178.chunk.js",
+    "static/js/2.e2268178.chunk.js.map": "/MyFirstReactApp/static/js/2.e2268178.chunk.js.map",
+    "index.html": "/MyFirstReactApp/index.html",
+    "precache-manifest.1b44943af70eb87617bd248f71bf2219.js": "/MyFirstReactApp/precache-manifest.1b44943af70eb87617bd248f71bf2219.js",
+    "service-worker.js": "/MyFirstReactApp/service-worker.js",
+    "static/css/main.08e68ede.chunk.css.map": "/MyFirstReactApp/static/css/main.08e68ede.chunk.css.map",
+    "static/media/SearchBar.css": "/MyFirstReactApp/static/media/background_search_mobile.5d0905e6.jpg"
+  }
+}
